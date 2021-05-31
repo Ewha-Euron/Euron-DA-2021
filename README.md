@@ -11,8 +11,8 @@
 |4|핸즈온 머신러닝 CH 5|안하린, 최지우, 김희숙|[📚](https://github.com/Ewha-Euron/Euron-DA-2021/blob/master/Week_4%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)|
 |5|핸즈온 머신러닝 CH 6|문소연, 권지수, 최주희|[📚](https://github.com/Ewha-Euron/Euron-DA-2021/blob/master/Week_5%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)|
 |6|핸즈온 머신러닝 CH 7|오수진, 홍문경|[📚](https://github.com/Ewha-Euron/Euron-DA-2021/blob/master/Week_6%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)|
-|7|핸즈온 머신러닝 CH 8|이다현, 최하경|[📚]()|
-|8|핸즈온 머신러닝 CH 9|안하린, 최지우, 김희숙|[📚]()|
+|7|핸즈온 머신러닝 CH 8|이다현, 최하경|[📚](https://github.com/Ewha-Euron/Euron-DA-2021/blob/master/Week_7%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)|
+|8|핸즈온 머신러닝 CH 9|안하린, 최지우, 김희숙|[📚](https://github.com/Ewha-Euron/Euron-DA-2021/blob/master/Week_8%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)|
 |9|캐글 필사 1회차|김연수, 김주현, 이지원|[📚]()|
 |10|캐글 필사 2회차|권지수, 홍문경|[📚]()|
 |11|캐글 필사 3회차|김희숙, 문소연|[📚]()|
